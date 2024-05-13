@@ -1,2 +1,3 @@
 книга по git:
-https://git-scm.com/book/en/v2/
+<<<<<<< HEAD
+https://git-scm.com/book/en/v2
